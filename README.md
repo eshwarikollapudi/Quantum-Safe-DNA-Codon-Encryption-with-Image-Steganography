@@ -201,17 +201,16 @@ Add screenshots of the following:
 
 ---
 
-# 👨‍💻 Contributors
+# 👩‍💻 Author
 
 **K. L. Eshwari**  
 B.Tech, Electronics and Communication Engineering  
 SRM University-AP
 
+---
 
 **Project Guide:**  
 **Prof. Rupesh Kumar**
-
----
 
 # 📄 License
 
